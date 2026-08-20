@@ -1,0 +1,8 @@
+# Local runtime artifacts and secrets
+.env
+**/.venv/
+**/node_modules/
+**/.next/
+**/__pycache__/
+*.db
+*.pyc
